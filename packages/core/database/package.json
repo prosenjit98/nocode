@@ -19,7 +19,7 @@
     "glob": "^7.1.6",
     "graphlib": "^2.1.8",
     "lodash": "^4.17.21",
-    "mathjs": "^10.6.1",
+    "mathjs": "^13.2.1",
     "nanoid": "^3.3.6",
     "node-fetch": "^2.6.7",
     "node-sql-parser": "^4.18.0",
